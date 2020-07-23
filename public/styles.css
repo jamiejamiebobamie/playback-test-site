@@ -1,0 +1,28 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    margin: 40px;
+}
+
+.indexBody{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+h1, p{
+    align-self: center;
+    margin-top:5vh;
+    text-align: center;
+}
+
+.videoPageBody{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+video{
+    align-self: center;
+    margin-top:40px;
+}
